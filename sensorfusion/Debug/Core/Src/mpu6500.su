@@ -1,0 +1,17 @@
+mpu6500.c:68:13:mpu6500InitializeControlStructure	4	static
+mpu6500.c:87:15:mpu6500WriteRegister	32	static
+mpu6500.c:101:15:mpu6500ReadRegisters	32	static
+mpu6500.c:113:15:mpu6500WhoAmI	8	static
+mpu6500.c:123:15:mpu6500CalibrateGyro	24	static
+mpu6500.c:164:15:mpu6500SetGyroRange	16	static
+mpu6500.c:208:15:mpu6500SetDlpfBandwidth	16	static
+mpu6500.c:282:15:mpu6500SetSrd	16	static
+mpu6500.c:301:8:mpu6500Init	16	static
+mpu6500.c:388:6:mpu6500Read	8	static
+mpu6500.c:414:7:mpu6500GetAccelX_mss	4	static
+mpu6500.c:420:7:mpu6500GetAccelY_mss	4	static
+mpu6500.c:426:7:mpu6500GetAccelZ_mss	4	static
+mpu6500.c:432:7:mpu6500GetGyroX_rads	4	static
+mpu6500.c:438:7:mpu6500GetGyroY_rads	4	static
+mpu6500.c:444:7:mpu6500GetGyroZ_rads	4	static
+mpu6500.c:450:7:mpu6500GetTemperature_C	4	static
